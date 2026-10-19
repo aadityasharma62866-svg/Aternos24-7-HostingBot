@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
+    "ip": "butterflyfish.aternos.host",
+    "port": 33529,
     "version": "",
     "try-creative": false
   },
